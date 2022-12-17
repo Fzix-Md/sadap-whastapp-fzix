@@ -8,9 +8,9 @@ NO SPAM TELFON SPAM/BLOK!!
 Cara Pakai!!
 Via Termux
 
-apt update && apt upgrade
-apt install git -y
-git clone https://github.com/Fzix-Md/sadap-whastapp-fzix
-ls
-cd sadap-whastapp-fzix
-DONE!!!
+apt update && apt upgrade.       
+apt install git -y.       
+git clone https://github.com/Fzix-Md/sadap-whastapp-fzix.  
+ls.   
+cd sadap-whastapp-fzix.   
+DONE!!!    
