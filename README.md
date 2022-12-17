@@ -1,1 +1,6 @@
-# sadap-whastapp-fzix
+Hai Kawan My Name Is Fzix
+My Number Whastapp Is +62895386201893
+BUSSINES PP/ENDORSE?CHAT!!
+NO SPAM TELFON SPAM/BLOK!!
+#ANAKJEBEH 
+#PENCARICUAN!!
