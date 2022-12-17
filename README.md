@@ -13,4 +13,6 @@ apt install git -y.
 git clone https://github.com/Fzix-Md/sadap-whastapp-fzix.  
 ls.   
 cd sadap-whastapp-fzix.   
+ls.       
+bash sadap.sh.      
 DONE!!!    
