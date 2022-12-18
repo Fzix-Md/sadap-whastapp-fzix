@@ -147,7 +147,7 @@ exit
 fi
 
 
-     echo $red 'ERROR : MAAF PILIHAN YANG ANDA CARI TIDAK TERSEDIA '
+     echo $red 'ERROR : SUCCESS✅ '
      sleep 2
      echo $ulang
 done
