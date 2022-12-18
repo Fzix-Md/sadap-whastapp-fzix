@@ -41,7 +41,7 @@ echo $purple "|| $green  3. Sadap WhatsApp No XL / Axis $purple || "
 echo $purple "|| $green  4. Sadap WhatsApp No 3(Three)  $purple || "
 echo $purple "|| $green  0. Exit Sadap WhatsApp         $purple || "
 echo $purple "=======================================             "
-echo $blue "   ╭──{PILIH-NOMER}─"$green"[Mr.X-Troll]"
+echo $blue "   ╭──{PILIH-NOMER}─"$green"[FZIXGAMESTORE]"
 read -p "    ╰─> " pil
 
 
